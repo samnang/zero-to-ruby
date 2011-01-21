@@ -35,10 +35,10 @@
     * TryRuby
 
     * Windows
-      Ruby One-Click Installer
+      RubyInstaller/Rails Installer
 
-    * Ubuntu/Mac OS
-      Install Ruby through RVM
+    * Ubuntu
+      Rails Ready/Ruby through RVM
       (Ruby Virtual Manager)
 
     * Ruby Implementations
