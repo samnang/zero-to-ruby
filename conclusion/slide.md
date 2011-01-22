@@ -5,7 +5,7 @@
 
     * Ruby Object Model
 
-    * Meataprogramming
+    * Metaprogramming
 
     * DSL
 
